@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-	<pre style="word-wrap: break-word; white-space: pre-wrap;">[
+[
   {
     "name": "Meowsy",
     "species" : "cat",
@@ -29,7 +23,4 @@
       "dislikes": ["cookies"]
     }
   }
-]</pre>
-
-</body>
-</html>
+]
