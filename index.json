@@ -20,7 +20,7 @@
     "species" : "anonymous worker",
     "foods": {
       "likes": ["Dogs","Guns"],
-      "dislikes": ["Dog catchers"]
+      "dislikes": ["Dog-catchers"]
     }
   }
 ]
