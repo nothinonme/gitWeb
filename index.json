@@ -1,26 +1,26 @@
 [
   {
-    "name": "momo",
-    "species" : "cat",
+    "name": "Dr.Jane ",
+    "species" : "Docter",
     "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
+      "likes": ["Scrubs", "Apples","Cafateria lasagna"],
+      "dislikes": ["calligraphy", "being Sick"]
     }
   },
   {
-    "name": "Barky",
-    "species" : "dog",
+    "name": "John Doe",
+    "species" : "Mechanic",
     "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
+      "likes": ["long walks with Engines", "Grease"],
+      "dislikes": ["BMWs"]
     }
   },
   {
-    "name": "Purrpaws",
-    "species" : "cat",
+    "name": "Mr.Wick",
+    "species" : "anonymous worker",
     "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
+      "likes": ["Dogs","Guns"],
+      "dislikes": ["Dog catchers"]
     }
   }
 ]
